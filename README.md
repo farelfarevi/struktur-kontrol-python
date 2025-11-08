@@ -21,10 +21,11 @@ Program meminta input jenis produk dan harga, lalu menentukan kategori menggunak
 - [x] Nesting If  
 
 ## Screenshot Output
-(Sertakan screenshot hasil running program di sini)
-
+   Output.png
+   
 ## Cara Menjalankan
 1. Download file `kategori_produk.py`  
 2. Jalankan di Python:
    ```bash
    python kategori_produk.py
+3. Ikuti intruksi input   
